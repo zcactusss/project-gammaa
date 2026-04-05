@@ -5,4 +5,4 @@ The system integrates external APIs to fetch accurate and up-to-date information
 A ranking mechanism is applied to prioritize results using factors like distance and ratings.
 The application presents results through a dynamic and user-friendly interface.
 It ensures smooth interaction by updating content without reloading the page.
-The project combines concepts of web development, API integration, and data processing.
+The project combines concepts of web development, API integration, and data processing.Overall, it provides a practical solution for real-world location-based recommendation needs
