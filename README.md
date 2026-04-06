@@ -6,3 +6,5 @@ A ranking mechanism is applied to prioritize results using factors like distance
 The application presents results through a dynamic and user-friendly interface.
 It ensures smooth interaction by updating content without reloading the page.
 The project combines concepts of web development, API integration, and data processing.Overall, it provides a practical solution for real-world location-based recommendation needs
+ Phase 1: Problem Identification and Requirement Analysis
+This phase focuses on understanding the real-world problem and defining the objectives of the system. In the context of a smart nearby place recommender, the problem lies in efficiently identifying relevant locations around a user without requiring manual search across multiple platforms. Requirement analysis involves identifying user needs, system inputs such as geographic location, and expected outputs such as ranked recommendations. This phase ensures that the system is designed with a clear purpose and aligned with user expectations.
